@@ -1,5 +1,8 @@
 _repo: Wuthering-Heights_768
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brontë, Emily
@@ -32,6 +35,8 @@ description: "Wuthering Heights is Emily Brontë's only novel. Written between O
   \ including film, radio and television dramatisations, a musical by Bernard J. Taylor,\
   \ a ballet, operas (by Bernard Herrmann, Carlisle Floyd, and Frédéric Chaslin),\
   \ a role-playing game, and a 1978 song by Kate Bush.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/768#Wuthering-Heights
 gutenberg_bookshelf:
 - Movie Books
 - Gothic Fiction
